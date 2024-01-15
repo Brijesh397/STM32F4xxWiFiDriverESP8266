@@ -1,0 +1,6 @@
+../Core/Src/circularBuffer.c:22:9:circularBufferIsFull	5
+../Core/Src/circularBuffer.c:48:9:circularBufferIsEmpty	2
+../Core/Src/circularBuffer.c:70:6:circularBufferClear	1
+../Core/Src/circularBuffer.c:89:21:circularBufferWriteChar	3
+../Core/Src/circularBuffer.c:123:21:circularBufferWriteString	5
+../Core/Src/circularBuffer.c:173:6:circularBufferRead	2

@@ -1,0 +1,15 @@
+../Core/Src/esp8266.c:37:6:esp8266Init	16	static
+../Core/Src/esp8266.c:76:6:esp8266Reset	16	static
+../Core/Src/esp8266.c:98:14:esp8266WriteCommand	24	static
+../Core/Src/esp8266.c:131:14:esp8266CheckResponse	32	static
+../Core/Src/esp8266.c:171:6:esp8266IRQHandler	16	static
+../Core/Src/esp8266.c:195:19:esp8266WaitUntilResponse	24	static
+../Core/Src/esp8266.c:220:19:esp8266SetToStationMode	8	static
+../Core/Src/esp8266.c:243:19:esp8266Connect	528	static
+../Core/Src/esp8266.c:269:19:esp8266GetIP	24	static
+../Core/Src/esp8266.c:308:19:esp8266EnableMultiConn	8	static
+../Core/Src/esp8266.c:331:19:esp8266CreateTCPServer	528	static
+../Core/Src/esp8266.c:359:19:esp8266SendDataToServer	536	static
+../Core/Src/esp8266.c:411:19:esp8266GetDomainIP	536	static
+../Core/Src/esp8266.c:453:19:esp8266EstablishTCPConnection	528	static
+../Core/Src/esp8266.c:483:6:esp8266GetLinkId	16	static
