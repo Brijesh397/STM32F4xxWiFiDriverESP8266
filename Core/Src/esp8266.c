@@ -17,8 +17,8 @@ Circular_Buffer_t esp8266RxBuffer;
 Circular_Buffer_t esp8266TxBuffer;
 
 /**************** SSID PASS *********************/
-char SSID[] = "Suyoga_home_2.4";
-char PASSWORD[] = "con@rEy59";
+char SSID[] = "abc";
+char PASSWORD[] = "pass";
 
 /*************** COMMANDS ***********************/
 char RESTART_COMMAND[] = "AT+RST\r\n";
